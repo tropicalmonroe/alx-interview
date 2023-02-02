@@ -13,7 +13,7 @@ Return True if all boxes can be opened, else return False
 
 
 def canUnlockAll(boxes):
-    """defines if all boxes can be opened"""
+    """ defines if all boxes can be opened """
     n = len(boxes)
     myList = [0]
     for x in myList:
